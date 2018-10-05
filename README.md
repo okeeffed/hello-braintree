@@ -1,6 +1,7 @@
 # Hello Braintree
 
 Original post: https://www.dennisokeeffe.com/blog/braintree-node-react
+
 Medium post: https://medium.com/@dennisokeeffe/depth-series-3-getting-started-with-the-braintree-sandbox-9f49f474bb1a
 
 ## Quickstart
